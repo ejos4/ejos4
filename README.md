@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning Node, PHP, JavaScript and npm
 
-💞️ I’m looking for a work-study contract as FullStack Developer
+💞️ I’m looking for a work-study contract as FullStack Developer (React / Node JS or Symfony)
 
 📫 How to reach me : erwanjp4@gmail.com
