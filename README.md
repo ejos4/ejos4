@@ -2,8 +2,8 @@
 
 👀 I’m interested in programming, self-development and numerical innovations
 
-🌱 I’m currently learning Node, PHP, JavaScript and npm
+🌱 I’m currently learning NodeJS and React
 
-💞️ I’m looking for a work-study contract as FullStack Developer (React / Node JS or Symfony)
+💞️ I’m looking for a job as junior front-end developer
 
-📫 How to reach me : erwanjp4@gmail.com
+📫 How to reach me : erwan.joseph.dev@gmail.com
